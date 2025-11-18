@@ -6,7 +6,9 @@ The experimental framework is paired with a computational pipeline that extracts
 
 To showcase the capabilities of the SITE platform, we used it to experimentally model basal-like breast cancer in both primary and metastatic tissue environments. We developed tissue-specific variants of SITE—MammaSITE for the mammary gland and LungSITE for the lung—to study tumour cell signalling and tumour–host interactions within their respective physiological contexts. Using basal-like breast cancer cells expressing an ERK biosensor, we tracked signalling dynamics across these distinct tissue settings over time. This allowed us to investigate early tumour initiation in the mammary gland, the processes underlying dissemination to the lung, and the coordinated evolution of signalling and tumour–host interactions in both models.
 
-We have described the development and implementation of SITE in the following paper: [Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modeling of primary and metastatic cancer dynamics] (https://www.biorxiv.org/content/10.1101/2025.09.08.674915v1)
+We describe the development and implementation of the SITE platform in our paper:**Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modeling of primary and metastatic cancer dynamics**  
+[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.09.08.674915v1)
+
 
 ## Advantages of SITE
 
