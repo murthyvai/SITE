@@ -31,3 +31,4 @@ The following vignettes contain the explanation on how to perform the basic step
 -  [SITE_Image_Processing_and_Feature_Extraction.ipynb](./Image_processing_and_feature_extraction/SITE_Image_Processing_and_Feature_Extraction.ipynb)
 
 Following completion of the SITE Image Processing and Feature Extraction pipeline, the data can be used to derive trajectories, extract experimental metadata and high-dimensional single-cell features, ERK C/N signaling dynamics and model spatiotemporal coordination and boundary libraries and contact-niche states and can be found below. 
+- [SITE_Analysis_pipeline.ipynb](./Analysis_pipeline/SITE_Analysis_pipeline.ipynb)
