@@ -9,6 +9,8 @@ To showcase the capabilities of the SITE platform, we used it to experimentally 
 We describe the development and implementation of the SITE platform in our paper: **Serial Imaging of Tumor and microEnvironment (SITE) platform for live-cell ex vivo modeling of primary and metastatic cancer dynamics**  
 [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.09.08.674915v1)
 
+![SITE_Pipeline_Complete_Figure](https://github.com/user-attachments/assets/82dc0812-0cd1-4f6c-9840-a99c5b6ad67a)
+
 
 ## Advantages of SITE
 
